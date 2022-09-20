@@ -24,3 +24,8 @@ My name is **Dave Velasco**. 😎
 > If I have seen further it is by standing on the shoulders of giants.
 
 — *Isaac Newton*
+
+
+## More Information
+
+I made this by following the guide at [GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world).
